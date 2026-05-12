@@ -1,0 +1,6 @@
+flask
+pandas
+geopandas
+gunicorn
+folium
+numpy
