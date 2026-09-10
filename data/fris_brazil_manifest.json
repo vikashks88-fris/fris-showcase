@@ -1,0 +1,101 @@
+{
+  "title": "FRIS Brazil Validation Dashboard Data",
+  "category": "Six documented disturbance AOIs",
+  "row_count": 3114,
+  "candidate_feature_count": 365,
+  "sites": [
+    {
+      "site": "Barra do Ouro",
+      "slug": "barra_do_ouro_to",
+      "analysis_date": "2025-09-30",
+      "aoi_area_ha": 39.6266,
+      "analysed_cells": 306,
+      "candidate_count": 125,
+      "field_priority_count": 50,
+      "monitoring_count": 75,
+      "current_optical_gap_count": 0,
+      "lat": -7.527851155677713,
+      "lon": -47.49367061458307,
+      "source_package": "0f8daef4-f451-4ce3-b0d2-77f2818895aa.zip"
+    },
+    {
+      "site": "Itacambira",
+      "slug": "itacambira",
+      "analysis_date": "2026-09-09",
+      "aoi_area_ha": 42.1964,
+      "analysed_cells": 135,
+      "candidate_count": 4,
+      "field_priority_count": 2,
+      "monitoring_count": 2,
+      "current_optical_gap_count": 0,
+      "lat": -17.07068494359907,
+      "lon": -43.39686446714603,
+      "source_package": "0019be4c-f0d3-49c4-95f4-823039c85aed.zip"
+    },
+    {
+      "site": "Inocência",
+      "slug": "inocencia_ms",
+      "analysis_date": "2026-09-09",
+      "aoi_area_ha": 57.3495,
+      "analysed_cells": 603,
+      "candidate_count": 23,
+      "field_priority_count": 23,
+      "monitoring_count": 0,
+      "current_optical_gap_count": 0,
+      "lat": -19.432152790464905,
+      "lon": -51.85540963397597,
+      "source_package": "628b3358-14ea-4ed0-95bc-2e4266e1e816.zip"
+    },
+    {
+      "site": "Barra do Garças",
+      "slug": "barra_do_garcas_mt",
+      "analysis_date": "2025-07-31",
+      "aoi_area_ha": 54.5802,
+      "analysed_cells": 378,
+      "candidate_count": 127,
+      "field_priority_count": 50,
+      "monitoring_count": 77,
+      "current_optical_gap_count": 0,
+      "lat": -15.51063099154032,
+      "lon": -52.2900185647357,
+      "source_package": "a370a531-0d48-410b-8514-5a56cf2478cf.zip"
+    },
+    {
+      "site": "Vazante",
+      "slug": "vazante_mg",
+      "analysis_date": "2025-10-31",
+      "aoi_area_ha": 50.8306,
+      "analysed_cells": 230,
+      "candidate_count": 86,
+      "field_priority_count": 50,
+      "monitoring_count": 36,
+      "current_optical_gap_count": 0,
+      "lat": -17.6112735146176,
+      "lon": -46.689283001221824,
+      "source_package": "FRIS_Degradation_Report_CSV_Maps_Package_vazante_mg_fris_analysis_aoi_20260905_165756.zip"
+    },
+    {
+      "site": "São José do Jacuri",
+      "slug": "sao_jose_do_jacuri",
+      "analysis_date": "2025-12-31",
+      "aoi_area_ha": 136.8197,
+      "analysed_cells": 1462,
+      "candidate_count": 0,
+      "field_priority_count": 0,
+      "monitoring_count": 0,
+      "current_optical_gap_count": 946,
+      "lat": -18.22418671235986,
+      "lon": -42.650466162872235,
+      "source_package": "FRIS_Degradation_Report_CSV_Maps_Package_sao_jose_do_jacuri_fris_analysis_aoi_20260905_170604.zip"
+    }
+  ],
+  "source_packages": [
+    "0f8daef4-f451-4ce3-b0d2-77f2818895aa.zip",
+    "0019be4c-f0d3-49c4-95f4-823039c85aed.zip",
+    "628b3358-14ea-4ed0-95bc-2e4266e1e816.zip",
+    "a370a531-0d48-410b-8514-5a56cf2478cf.zip",
+    "FRIS_Degradation_Report_CSV_Maps_Package_vazante_mg_fris_analysis_aoi_20260905_165756.zip",
+    "FRIS_Degradation_Report_CSV_Maps_Package_sao_jose_do_jacuri_fris_analysis_aoi_20260905_170604.zip"
+  ],
+  "responsible_use": "Screening evidence for monitoring and field verification; not legal proof, ground truth, illegal-activity determination, or regulatory certification."
+}
